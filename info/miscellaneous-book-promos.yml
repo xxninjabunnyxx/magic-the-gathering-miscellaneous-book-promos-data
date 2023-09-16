@@ -1,0 +1,15 @@
+---
+object: set
+id: 7c4a9e4d-d5f5-49fc-9486-4785ab4d368c
+code: pbook
+name: Miscellaneous Book Promos
+uri: https://api.scryfall.com/sets/7c4a9e4d-d5f5-49fc-9486-4785ab4d368c
+scryfall_uri: https://scryfall.com/sets/pbook
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apbook&unique=prints
+released_at: '2009-01-27'
+set_type: promo
+card_count: 1
+digital: false
+nonfoil_only: true
+foil_only: false
+icon_svg_uri: https://svgs.scryfall.io/sets/pbook.svg?1694404800
